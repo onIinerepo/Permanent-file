@@ -1,4 +1,4 @@
-#EXTM3U vod_library="https://ottgo.xyz/expiredvod" billed-msg="🔴 PERTANYAAN          🟢 BANTUAN          🟡 LANGGANAN      CHAT ADMIN MELALUI WHATSAPP ATAU TELEGRAM DI NOMBOR 011 3109 2605"
+#EXTM3U vod_library="https://ottgo.xyz/expiredvod" billed-msg="🔴 PERTANYAAN          🟢 BANTUAN          🟡 LANGGANAN          CHAT ADMIN MELALUI WHATSAPP ATAU TELEGRAM DI NOMBOR 011 3109 2605"
 
-#EXTINF:-1 tvg-id="Dummy.us" tvg-logo="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png",INFO
+#EXTINF:-1 tvg-id="Dummy.us" tvg-logo="https://cdn.pixabay.com/photo/2019/06/25/12/59/click-here-4298145_1280.png" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/malaysialogo.png" group-title="INFO LANGGANAN",INFO
 https://ottgo.xyz/promo.ts
