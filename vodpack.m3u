@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+
+#EXTM3U
 #EXTINF:-1 type="movie" CUID="8" tvg-name="Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/sUsVimPdA1l162FvdBIlmKBlWHx.jpg" group-title="MOVIE          ANIMATION",Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
 https://cloud.hownetwork.xyz/zzz/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bnMXFR0gFnwmHU90dWcT/33/480.m3u8
 #EXTINF:-1 type="movie" CUID="1" tvg-name="Ejen Ali the Movie 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/cjDAlNKylyqNUpv6nDoFR1YBEAD.jpg" group-title="MOVIE          ANIMATION",Ejen Ali the Movie 2 (2025)
@@ -2670,95 +2672,95 @@ http://watchindia.net:8880/series/52323/64902/3279.mkv
 http://watchindia.net:8880/series/52323/64902/3280.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eGFnQgbTCh7FItiszTj1x85KSOo.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E01
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/eGFnQgbTCh7FItiszTj1x85KSOo.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E01
 http://watchindia.net:8880/series/52323/64902/3648.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uOXVePkIHXZJeGnlb4icpDSyiGc.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E02
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uOXVePkIHXZJeGnlb4icpDSyiGc.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E02
 http://watchindia.net:8880/series/52323/64902/3649.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uOXVePkIHXZJeGnlb4icpDSyiGc.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E03
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/uOXVePkIHXZJeGnlb4icpDSyiGc.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E03
 http://watchindia.net:8880/series/52323/64902/3650.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/poFvgrd1BoxZ0LVMSv57mEMSp0i.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E04
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/poFvgrd1BoxZ0LVMSv57mEMSp0i.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E04
 http://watchindia.net:8880/series/52323/64902/3651.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/poFvgrd1BoxZ0LVMSv57mEMSp0i.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E05
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/poFvgrd1BoxZ0LVMSv57mEMSp0i.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E05
 http://watchindia.net:8880/series/52323/64902/3652.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/G9fLxujbp4Vx5V3HnuprmDMN3V.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E06
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/G9fLxujbp4Vx5V3HnuprmDMN3V.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E06
 http://watchindia.net:8880/series/52323/64902/3653.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/G9fLxujbp4Vx5V3HnuprmDMN3V.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E07
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/G9fLxujbp4Vx5V3HnuprmDMN3V.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E07
 http://watchindia.net:8880/series/52323/64902/3654.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4gtUVKJ0aYJiTnrFfd3Z0bHF4Wf.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E08
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/4gtUVKJ0aYJiTnrFfd3Z0bHF4Wf.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E08
 http://watchindia.net:8880/series/52323/64902/3656.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/4gtUVKJ0aYJiTnrFfd3Z0bHF4Wf.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E09
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/4gtUVKJ0aYJiTnrFfd3Z0bHF4Wf.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E09
 http://watchindia.net:8880/series/52323/64902/3655.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/fCpO5TmvBXUmbWCiBsTxyNGmsqw.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E10
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/fCpO5TmvBXUmbWCiBsTxyNGmsqw.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E10
 http://watchindia.net:8880/series/52323/64902/3658.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/fCpO5TmvBXUmbWCiBsTxyNGmsqw.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E11
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/fCpO5TmvBXUmbWCiBsTxyNGmsqw.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E11
 http://watchindia.net:8880/series/52323/64902/3657.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/uPjTsHSgewN6YXH6cs9YejeuUXA.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E12
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/uPjTsHSgewN6YXH6cs9YejeuUXA.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E12
 http://watchindia.net:8880/series/52323/64902/3660.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/uPjTsHSgewN6YXH6cs9YejeuUXA.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E13
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/uPjTsHSgewN6YXH6cs9YejeuUXA.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E13
 http://watchindia.net:8880/series/52323/64902/3659.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/tAq8vEz0PlRGwUB2P0aKtA1il2z.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E14
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/tAq8vEz0PlRGwUB2P0aKtA1il2z.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E14
 http://watchindia.net:8880/series/52323/64902/3662.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/tAq8vEz0PlRGwUB2P0aKtA1il2z.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S01 E15
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/tAq8vEz0PlRGwUB2P0aKtA1il2z.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S01 E15
 http://watchindia.net:8880/series/52323/64902/3661.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nJkp3SpbOA519LxBQrzpmUNjdjm.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E01
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/nJkp3SpbOA519LxBQrzpmUNjdjm.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E01
 http://watchindia.net:8880/series/52323/64902/3281.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dWCbGErSF6qdDSXRbtyWAjfcvB6.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E02
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/dWCbGErSF6qdDSXRbtyWAjfcvB6.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E02
 http://watchindia.net:8880/series/52323/64902/3282.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1ckqrfXeYXlvLOjiJZKoULieZx3.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E03
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/1ckqrfXeYXlvLOjiJZKoULieZx3.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E03
 http://watchindia.net:8880/series/52323/64902/3283.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/oiEDhk9BR7bhLE1j9VOJ9rClYZF.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E04
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/oiEDhk9BR7bhLE1j9VOJ9rClYZF.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E04
 http://watchindia.net:8880/series/52323/64902/3284.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pbAcm8KuVVjVWZXzuJpzbIV0liM.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E05
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/pbAcm8KuVVjVWZXzuJpzbIV0liM.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E05
 http://watchindia.net:8880/series/52323/64902/3285.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/guYnFoxm3gNCKYG5BB1R0MRn0oi.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E06
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/guYnFoxm3gNCKYG5BB1R0MRn0oi.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E06
 http://watchindia.net:8880/series/52323/64902/3286.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8CqUQMp3qbetfAHh4bEXeaYx6nq.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E07
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/8CqUQMp3qbetfAHh4bEXeaYx6nq.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E07
 http://watchindia.net:8880/series/52323/64902/3287.mkv
 
 
-#EXTINF:-1 type="movie" tvg-name="Suzhal - The Vortex S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/zJi6TsiZKETS0mZvYzR2oQxO8uM.jpg" group-title="MOVIE          INDIAN",Suzhal - The Vortex S02 E08
+#EXTINF:-1 type="series" tvg-name="Suzhal - The Vortex S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/zJi6TsiZKETS0mZvYzR2oQxO8uM.jpg" group-title="DRAMA          INDIAN",Suzhal - The Vortex S02 E08
 http://watchindia.net:8880/series/52323/64902/3288.mkv
 
 
