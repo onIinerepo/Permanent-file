@@ -1,171 +1,171 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 CUID="1" tvg-name="Lupakan Cinta (2024)" group-title="MOVIE          MALAY",Lupakan Cinta (2024)
+#EXTINF:-1 type="movie" CUID="1" tvg-name="Lupakan Cinta (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/biSlrrnshA8MF3co7VmYPb7eIcn.jpg" group-title="movie malay",Lupakan Cinta (2024)
 https://cloud.hownetwork.xyz/zzz/Lg05Ly4YGWwhOBk4Ih1kaHBMZDkgGxMtHQkoKSYAYmt6Gng/33/480.m3u8
-#EXTINF:-1 CUID="2" tvg-name="Janna Endoro (2024)" group-title="MOVIE          MALAY",Janna Endoro (2024)
+#EXTINF:-1 type="movie" CUID="2" tvg-name="Janna Endoro (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/lf483WIuosJg0LOMs3XBwMnRrY5.jpg" group-title="movie malay",Janna Endoro (2024)
 https://cloud.hownetwork.xyz/zzz/KBknICRUEi8mPgUjbgJmanZVPisnHRseGg4RfSBWYT17GQ/33/480.m3u8
-#EXTINF:-1 CUID="3" tvg-name="Reversi (2024)" group-title="MOVIE          MALAY",Reversi (2024)
+#EXTINF:-1 type="movie" CUID="3" tvg-name="Reversi (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/afWnRF7mK7yNoJjx4AsoUdq1nqV.jpg" group-title="movie malay",Reversi (2024)
 https://cloud.hownetwork.xyz/zzz/MB0_KzcKHmxwYUV4bkczOiYUFhYaHU95czJFfHQ/32/480.m3u8
-#EXTINF:-1 CUID="4" tvg-name="This Land of Mine (2024)" group-title="MOVIE          MALAY",This Land of Mine (2024)
+#EXTINF:-1 type="movie" CUID="4" tvg-name="This Land of Mine (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/8jUNfoDa1RKpprKVtFqWgngtkId.jpg" group-title="movie malay",This Land of Mine (2024)
 https://cloud.hownetwork.xyz/zzz/2938da49c89291a6cf23b9212663fa8c/31/480.m3u8
-#EXTINF:-1 CUID="6" tvg-name="Babah (2024)" group-title="MOVIE          MALAY",Babah (2024)
+#EXTINF:-1 type="movie" CUID="6" tvg-name="Babah (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/cWlwc3Rzd5ATK7MLMuAOgSQxcTs.jpg" group-title="movie malay",Babah (2024)
 https://cloud.hownetwork.xyz/zzz/59033d8065a7d5c03e761a3c5438a103/31/480.m3u8
-#EXTINF:-1 CUID="7" tvg-name="Lubuk (2024)" group-title="MOVIE          MALAY",Lubuk (2024)
+#EXTINF:-1 type="movie" CUID="7" tvg-name="Lubuk (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/eetln9XQpMc2GrWfKNJXrN7NdDr.jpg" group-title="movie malay",Lubuk (2024)
 https://cloud.hownetwork.xyz/zzz/32dfdb1989b3ffdf46ac88acd3f1523d/25/480.m3u8
-#EXTINF:-1 CUID="8" tvg-name="Tegkang (2024)" group-title="MOVIE          MALAY",Tegkang (2024)
+#EXTINF:-1 type="movie" CUID="8" tvg-name="Tegkang (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/vHWV6wO4ljiZPjya34tSyxX7fAw.jpg" group-title="movie malay",Tegkang (2024)
 https://cloud.hownetwork.xyz/zzz/18e9a10acc6090b7ddab27a149ed1d48/25/480.m3u8
-#EXTINF:-1 CUID="9" tvg-name="Don't Look Back... I Know Your Origins (2024)" group-title="MOVIE          MALAY",Don't Look Back... I Know Your Origins (2024)
+#EXTINF:-1 type="movie" CUID="9" tvg-name="Don't Look Back... I Know Your Origins (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/7BbHTbwz4d4Y6Styj1o8DgzgAXt.jpg" group-title="movie malay",Don't Look Back... I Know Your Origins (2024)
 https://cloud.hownetwork.xyz/zzz/459b47827a9c29f41665c46a4a1c65d9/25/480.m3u8
-#EXTINF:-1 CUID="11" tvg-name="Kahar: Kapla High Council (2024)" group-title="MOVIE          MALAY",Kahar: Kapla High Council (2024)
+#EXTINF:-1 type="movie" CUID="11" tvg-name="Kahar: Kapla High Council (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/p9F8aDVBHZpKkdQIbhzcTRmHggT.jpg" group-title="movie malay",Kahar: Kapla High Council (2024)
 https://cloud.hownetwork.xyz/zzz/3d338fe71a892964a35d7ff0d6bde080/25/480.m3u8
-#EXTINF:-1 CUID="12" tvg-name="Pontianak 200KG (200KG Vampire) (2024)" group-title="MOVIE          MALAY",Pontianak 200KG (200KG Vampire) (2024)
+#EXTINF:-1 type="movie" CUID="12" tvg-name="Pontianak 200KG (200KG Vampire) (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/y910s3Arhlcn1fF9s7iL0v04RRH.jpg" group-title="movie malay",Pontianak 200KG (200KG Vampire) (2024)
 https://cloud.hownetwork.xyz/zzz/65f8888c6c4ab678dcf2e3d1788af7d3/25/480.m3u8
-#EXTINF:-1 CUID="13" tvg-name="Zim Zim Ala Kazim (2024)" group-title="MOVIE          MALAY",Zim Zim Ala Kazim (2024)
+#EXTINF:-1 type="movie" CUID="13" tvg-name="Zim Zim Ala Kazim (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg" group-title="movie malay",Zim Zim Ala Kazim (2024)
 https://cloud.hownetwork.xyz/zzz/22c39586eccc78169e15a8c8710046f4/26/480.m3u8
-#EXTINF:-1 CUID="14" tvg-name="Telekinesis (2024)" group-title="MOVIE          MALAY",Telekinesis (2024)
+#EXTINF:-1 type="movie" CUID="14" tvg-name="Telekinesis (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/8KEjjeJ8Ix4WRPPdksmxzqGEplU.jpg" group-title="movie malay",Telekinesis (2024)
 https://cloud.hownetwork.xyz/zzz/0a10938074468cb0d608d68d38acdbf1/26/480.m3u8
-#EXTINF:-1 CUID="15" tvg-name="Don Dukun (2024)" group-title="MOVIE          MALAY",Don Dukun (2024)
+#EXTINF:-1 type="movie" CUID="15" tvg-name="Don Dukun (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/pKqKm3ZiY9kPlv2l8kXG2XtFErz.jpg" group-title="movie malay",Don Dukun (2024)
 https://cloud.hownetwork.xyz/zzz/5a3f98a44664ac7d051809a6560b1b79/26/480.m3u8
-#EXTINF:-1 CUID="16" tvg-name="Roxana (2024)" group-title="MOVIE          MALAY",Roxana (2024)
+#EXTINF:-1 type="movie" CUID="16" tvg-name="Roxana (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/h8wfp6CTiafZ6X8U7sEMpz9q0NP.jpg" group-title="movie malay",Roxana (2024)
 https://cloud.hownetwork.xyz/zzz/5ff797d47e99ae1995f193a6f7ee02fb/25/480.m3u8
-#EXTINF:-1 CUID="17" tvg-name="Sinakagon (2024)" group-title="MOVIE          MALAY",Sinakagon (2024)
+#EXTINF:-1 type="movie" CUID="17" tvg-name="Sinakagon (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/26i0wLH2jYXVndKiyCBfet0LGS1.jpg" group-title="movie malay",Sinakagon (2024)
 https://cloud.hownetwork.xyz/zzz/72c807c4539307214a843c8081acab6d/31/480.m3u8
-#EXTINF:-1 CUID="18" tvg-name="Jiwa 8 Belas (2024)" group-title="MOVIE          MALAY",Jiwa 8 Belas (2024)
+#EXTINF:-1 type="movie" CUID="18" tvg-name="Jiwa 8 Belas (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/mJHaUftr2RNzm6jex84m5KPOfqX.jpg" group-title="movie malay",Jiwa 8 Belas (2024)
 https://cloud.hownetwork.xyz/zzz/deb8607af0e7e8dc0443619cc6b7f40e/31/480.m3u8
-#EXTINF:-1 CUID="19" tvg-name="Hantu Telur Kampung (2024)" group-title="MOVIE          MALAY",Hantu Telur Kampung (2024)
+#EXTINF:-1 type="movie" CUID="19" tvg-name="Hantu Telur Kampung (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/aFb6gQ7DDChJGDciBcCIwZzip97.jpg" group-title="movie malay",Hantu Telur Kampung (2024)
 https://cloud.hownetwork.xyz/zzz/6d57283dc9a96dcb2200704c494beba0/31/480.m3u8
-#EXTINF:-1 CUID="20" tvg-name="The Experts (2024)" group-title="MOVIE          MALAY",The Experts (2024)
+#EXTINF:-1 type="movie" CUID="20" tvg-name="The Experts (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/6qY4HM5ayavGPGrhVVLfUJ9xjq8.jpg" group-title="movie malay",The Experts (2024)
 https://cloud.hownetwork.xyz/zzz/3d200c07014234c73023ffbe6dbc0b18/31/480.m3u8
-#EXTINF:-1 CUID="21" tvg-name="Conquer: Lahad Datu (Takluk: Lahad Datu) (2024)" group-title="MOVIE          MALAY",Conquer: Lahad Datu (Takluk: Lahad Datu) (2024)
+#EXTINF:-1 type="movie" CUID="21" tvg-name="Conquer: Lahad Datu (Takluk: Lahad Datu) (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jpyuq6ClXoTyeNnjRKO5iI6v4SM.jpg" group-title="movie malay",Conquer: Lahad Datu (Takluk: Lahad Datu) (2024)
 https://cloud.hownetwork.xyz/zzz/88808cfa08352db852dde3b1e5597cc6/31/480.m3u8
-#EXTINF:-1 CUID="22" tvg-name="Waruga: Kutukan Ilmu Hitam (2024)" group-title="MOVIE          MALAY",Waruga: Kutukan Ilmu Hitam (2024)
+#EXTINF:-1 type="movie" CUID="22" tvg-name="Waruga: Kutukan Ilmu Hitam (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/gpmWw9KmwLTBYckdSUKn4O56oqt.jpg" group-title="movie malay",Waruga: Kutukan Ilmu Hitam (2024)
 https://cloud.hownetwork.xyz/zzz/72020be62d553de9dcff026bb499ba43/31/480.m3u8
-#EXTINF:-1 CUID="23" tvg-name="Tafakur (2024)" group-title="MOVIE          MALAY",Tafakur (2024)
+#EXTINF:-1 type="movie" CUID="23" tvg-name="Tafakur (2024)" group-title="movie malay",Tafakur (2024)
 https://cloud.hownetwork.xyz/zzz/886bb1b4f9b6ab57e52591004ddb29e0/30/480.m3u8
-#EXTINF:-1 CUID="24" tvg-name="Cheongsam Merah Darah (2024)" group-title="MOVIE          MALAY",Cheongsam Merah Darah (2024)
+#EXTINF:-1 type="movie" CUID="24" tvg-name="Cheongsam Merah Darah (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/8fgr8uooozcAQGIrf1NXp4JSWe3.jpg" group-title="movie malay",Cheongsam Merah Darah (2024)
 https://cloud.hownetwork.xyz/zzz/04668b221775c75b1bc12d234a1f9490/31/480.m3u8
-#EXTINF:-1 CUID="25" tvg-name="Padu (2024)" group-title="MOVIE          MALAY",Padu (2024)
+#EXTINF:-1 type="movie" CUID="25" tvg-name="Padu (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/z0kbkXqEt5LKJbafyNGIpfUkoS8.jpg" group-title="movie malay",Padu (2024)
 https://cloud.hownetwork.xyz/zzz/a13450806bb6f7fb7c1c94b53f9de029/31/480.m3u8
-#EXTINF:-1 CUID="26" tvg-name="Tan-Ti-Ana (2024)" group-title="MOVIE          MALAY",Tan-Ti-Ana (2024)
+#EXTINF:-1 type="movie" CUID="26" tvg-name="Tan-Ti-Ana (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/btAtIGSokXZaOcycBtZSsLWbPXu.jpg" group-title="movie malay",Tan-Ti-Ana (2024)
 https://cloud.hownetwork.xyz/zzz/1804470c4734af859bd6edd4d8bfbe59/31/480.m3u8
-#EXTINF:-1 CUID="27" tvg-name="Memoir Seorang Guru (2024)" group-title="MOVIE          MALAY",Memoir Seorang Guru (2024)
+#EXTINF:-1 type="movie" CUID="27" tvg-name="Memoir Seorang Guru (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="movie malay",Memoir Seorang Guru (2024)
 https://cloud.hownetwork.xyz/zzz/28844f19b35becbe0d0b04b6865b28c4/31/480.m3u8
-#EXTINF:-1 CUID="28" tvg-name="Abnormal: Buas (2024)" group-title="MOVIE          MALAY",Abnormal: Buas (2024)
+#EXTINF:-1 type="movie" CUID="28" tvg-name="Abnormal: Buas (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title="movie malay",Abnormal: Buas (2024)
 https://cloud.hownetwork.xyz/zzz/04a27d46f4daa8930021d576fc3e6307/31/480.m3u8
-#EXTINF:-1 CUID="29" tvg-name="Pendekar Awang: Darah Indera Gajah (2024)" group-title="MOVIE          MALAY",Pendekar Awang: Darah Indera Gajah (2024)
+#EXTINF:-1 type="movie" CUID="29" tvg-name="Pendekar Awang: Darah Indera Gajah (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/bD6iozti3yvEuN6JpTLM6MCtD2D.jpg" group-title="movie malay",Pendekar Awang: Darah Indera Gajah (2024)
 https://cloud.hownetwork.xyz/zzz/9af6cfa8b273c270d048f69bbb928ffc/31/480.m3u8
-#EXTINF:-1 CUID="30" tvg-name="Siapa Buka Lampu (2024)" group-title="MOVIE          MALAY",Siapa Buka Lampu (2024)
+#EXTINF:-1 type="movie" CUID="30" tvg-name="Siapa Buka Lampu (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/5PnMplyKx7UcyCeuk8AHRLnlFWX.jpg" group-title="movie malay",Siapa Buka Lampu (2024)
 https://cloud.hownetwork.xyz/zzz/705b72915356e7ad5e6acecd042c4e0b/31/480.m3u8
-#EXTINF:-1 CUID="31" tvg-name="Dead Boys Club (Geng Kubur) (2024)" group-title="MOVIE          MALAY",Dead Boys Club (Geng Kubur) (2024)
+#EXTINF:-1 type="movie" CUID="31" tvg-name="Dead Boys Club (Geng Kubur) (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/f60S3DisfgrKtrclwB9FOeBxVWK.jpg" group-title="movie malay",Dead Boys Club (Geng Kubur) (2024)
 https://cloud.hownetwork.xyz/zzz/8374fcfda379a6a55e7b5cac16a5f5b5/4/480.m3u8
-#EXTINF:-1 CUID="32" tvg-name="Rebel (2024)" group-title="MOVIE          MALAY",Rebel (2024)
+#EXTINF:-1 type="movie" CUID="32" tvg-name="Rebel (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/6w7vApBT34Kb6B7ITxs45l9gswx.jpg" group-title="movie malay",Rebel (2024)
 https://cloud.hownetwork.xyz/zzz/f1a601443cc6725825573d483cc62148/4/480.m3u8
-#EXTINF:-1 CUID="33" tvg-name="Leha (2024)" group-title="MOVIE          MALAY",Leha (2024)
+#EXTINF:-1 type="movie" CUID="33" tvg-name="Leha (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/7LNMGmoUwtSnjRLKxWtwQT2yRTR.jpg" group-title="movie malay",Leha (2024)
 https://cloud.hownetwork.xyz/zzz/1d302347ab44bc9eed1ff6663777a083/27/480.m3u8
-#EXTINF:-1 CUID="34" tvg-name="Ngesot (2024)" group-title="MOVIE          MALAY",Ngesot (2024)
+#EXTINF:-1 type="movie" CUID="34" tvg-name="Ngesot (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/a5x1T1ljlbSXtOgXIb4QIVFi1CC.jpg" group-title="movie malay",Ngesot (2024)
 https://cloud.hownetwork.xyz/zzz/992089244ca7f2dbd5942f965036f7ee/27/480.m3u8
-#EXTINF:-1 CUID="35" tvg-name="Sheriff (2024)" group-title="MOVIE          MALAY",Sheriff (2024)
+#EXTINF:-1 type="movie" CUID="35" tvg-name="Sheriff (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/cD8r2nCbekycnfPoRvaBnqpAap9.jpg" group-title="movie malay",Sheriff (2024)
 https://cloud.hownetwork.xyz/zzz/3bdffebaaf24b0fef82f9d5a4a25ff9e/27/480.m3u8
-#EXTINF:-1 CUID="36" tvg-name="Bisikan Setan (2024)" group-title="MOVIE          MALAY",Bisikan Setan (2024)
+#EXTINF:-1 type="movie" CUID="36" tvg-name="Bisikan Setan (2024)" group-title="movie malay",Bisikan Setan (2024)
 https://cloud.hownetwork.xyz/zzz/4967430a938e5b436421f4c7b4e13283/27/480.m3u8
-#EXTINF:-1 CUID="37" tvg-name="Po ke wang zhe (2024)" group-title="MOVIE          MALAY",Po ke wang zhe (2024)
+#EXTINF:-1 type="movie" CUID="37" tvg-name="Po ke wang zhe (2024)" group-title="movie malay",Po ke wang zhe (2024)
 https://cloud.hownetwork.xyz/zzz/a2ca24a4d322abc5c79f6d55786d7a61/27/480.m3u8
-#EXTINF:-1 CUID="38" tvg-name="Mashaarojinn (2024)" group-title="MOVIE          MALAY",Mashaarojinn (2024)
+#EXTINF:-1 type="movie" CUID="38" tvg-name="Mashaarojinn (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/n3QpGL4X3KHPYFNxKzvElLTjXDa.jpg" group-title="movie malay",Mashaarojinn (2024)
 https://cloud.hownetwork.xyz/zzz/949614fdcf0ffe53d9ab1d0c2dd8a2a9/27/480.m3u8
-#EXTINF:-1 CUID="39" tvg-name="Rampok (2024)" group-title="MOVIE          MALAY",Rampok (2024)
+#EXTINF:-1 type="movie" CUID="39" tvg-name="Rampok (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/9EjbBSiGU0o8yAcXc5RJtCiX5Eg.jpg" group-title="movie malay",Rampok (2024)
 https://cloud.hownetwork.xyz/zzz/eea925b310b2279074e16a060a7c334f/27/480.m3u8
-#EXTINF:-1 CUID="40" tvg-name="Bungalow Section 12 (2024)" group-title="MOVIE          MALAY",Bungalow Section 12 (2024)
+#EXTINF:-1 type="movie" CUID="40" tvg-name="Bungalow Section 12 (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/tpWZjYkbOlcfxfH5Qu5g9SzAtUL.jpg" group-title="movie malay",Bungalow Section 12 (2024)
 https://cloud.hownetwork.xyz/zzz/186cff9ecc1f6fb5c2001865d8ea7507/27/480.m3u8
-#EXTINF:-1 CUID="41" tvg-name="Korsakoff (2024)" group-title="MOVIE          MALAY",Korsakoff (2024)
+#EXTINF:-1 type="movie" CUID="41" tvg-name="Korsakoff (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/jAiQBNs1SPUHeVRS0BxDw1LsbiU.jpg" group-title="movie malay",Korsakoff (2024)
 https://cloud.hownetwork.xyz/zzz/f025e51db9b0255dda380a396558845b/23/480.m3u8
-#EXTINF:-1 CUID="42" tvg-name="Nasi Lemak Kimchi (2024)" group-title="MOVIE          MALAY",Nasi Lemak Kimchi (2024)
+#EXTINF:-1 type="movie" CUID="42" tvg-name="Nasi Lemak Kimchi (2024)" group-title="movie malay",Nasi Lemak Kimchi (2024)
 https://cloud.hownetwork.xyz/zzz/c4a5336b6b224f958d78492d4bc85845/26/480.m3u8
-#EXTINF:-1 CUID="43" tvg-name="Town Mall 2 (2024)" group-title="MOVIE          MALAY",Town Mall 2 (2024)
+#EXTINF:-1 type="movie" CUID="43" tvg-name="Town Mall 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/k6hfUWYSH3PLWZzmME9BWcZkNBB.jpg" group-title="movie malay",Town Mall 2 (2024)
 https://cloud.hownetwork.xyz/zzz/15c1c12748f2424d9b6e91d7bd0cf1d1/30/480.m3u8
-#EXTINF:-1 CUID="44" tvg-name="Rain Town (2023)" group-title="MOVIE          MALAY",Rain Town (2023)
+#EXTINF:-1 type="movie" CUID="44" tvg-name="Rain Town (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fQiCX83O98g0eOce5pqM221ZAQD.jpg" group-title="movie malay",Rain Town (2023)
 https://cloud.hownetwork.xyz/zzz/b189954b64dd26f4bf081df0cbe0f1dd/31/480.m3u8
-#EXTINF:-1 CUID="45" tvg-name="Magik (2023)" group-title="MOVIE          MALAY",Magik (2023)
+#EXTINF:-1 type="movie" CUID="45" tvg-name="Magik (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mhx3EpovuoKmIcSbVso0n4hFyc1.jpg" group-title="movie malay",Magik (2023)
 https://cloud.hownetwork.xyz/zzz/c0439849f84555e253a93644e27a1dad/31/480.m3u8
-#EXTINF:-1 CUID="46" tvg-name="Sue-On (2023)" group-title="MOVIE          MALAY",Sue-On (2023)
+#EXTINF:-1 type="movie" CUID="46" tvg-name="Sue-On (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9YTuscJXmr9Iua62amCgGSU8PDW.jpg" group-title="movie malay",Sue-On (2023)
 https://cloud.hownetwork.xyz/zzz/74953b847c039941db14185b9f6a504e/4/480.m3u8
-#EXTINF:-1 CUID="47" tvg-name="The Lord Musang King (2023)" group-title="MOVIE          MALAY",The Lord Musang King (2023)
+#EXTINF:-1 type="movie" CUID="47" tvg-name="The Lord Musang King (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hSfbxTM5c0iPI00bMwTCVK0kNHH.jpg" group-title="movie malay",The Lord Musang King (2023)
 https://cloud.hownetwork.xyz/zzz/41aef42e8da99fe5470a6802f5d2e8ed/4/480.m3u8
-#EXTINF:-1 CUID="48" tvg-name="Naam Katra Isai (2023)" group-title="MOVIE          MALAY",Naam Katra Isai (2023)
+#EXTINF:-1 type="movie" CUID="48" tvg-name="Naam Katra Isai (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6eSwnP5mz0uC2p1SVLhXNbfuoIK.jpg" group-title="movie malay",Naam Katra Isai (2023)
 https://cloud.hownetwork.xyz/zzz/cd9da206f2f02cfd3e1f042ed72773e2/27/480.m3u8
-#EXTINF:-1 CUID="49" tvg-name="Namatai: From Kinabalu with Love (2023)" group-title="MOVIE          MALAY",Namatai: From Kinabalu with Love (2023)
+#EXTINF:-1 type="movie" CUID="49" tvg-name="Namatai: From Kinabalu with Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lOladzv5eIrBTHrVSNJdQv5Wa9V.jpg" group-title="movie malay",Namatai: From Kinabalu with Love (2023)
 https://cloud.hownetwork.xyz/zzz/2f2b2f774567bb46f15fce9f6124a9cf/27/480.m3u8
-#EXTINF:-1 CUID="50" tvg-name="Duan Nago Bogho (2023)" group-title="MOVIE          MALAY",Duan Nago Bogho (2023)
+#EXTINF:-1 type="movie" CUID="50" tvg-name="Duan Nago Bogho (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vtuKbkVIlnPTskt4mUZj6QiZYKc.jpg" group-title="movie malay",Duan Nago Bogho (2023)
 https://cloud.hownetwork.xyz/zzz/07affe355915126ece41136bce90154d/27/480.m3u8
-#EXTINF:-1 CUID="51" tvg-name="Bilik Tepi (2023)" group-title="MOVIE          MALAY",Bilik Tepi (2023)
+#EXTINF:-1 type="movie" CUID="51" tvg-name="Bilik Tepi (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wz7EnJmAwrt2cF5PpXwbwi54auI.jpg" group-title="movie malay",Bilik Tepi (2023)
 https://cloud.hownetwork.xyz/zzz/a6e0d1ae9580cd63549fdfbaa4470fc7/28/480.m3u8
-#EXTINF:-1 CUID="52" tvg-name="Bangkitkan Aku Kembali (2023)" group-title="MOVIE          MALAY",Bangkitkan Aku Kembali (2023)
+#EXTINF:-1 type="movie" CUID="52" tvg-name="Bangkitkan Aku Kembali (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/v9Z6TrlBEW2ii1BBeH6Y300L7oI.jpg" group-title="movie malay",Bangkitkan Aku Kembali (2023)
 https://cloud.hownetwork.xyz/zzz/f3dbd75dc36ef008c84a8fd76adca88e/27/480.m3u8
-#EXTINF:-1 CUID="53" tvg-name="Abang Adik (2023)" group-title="MOVIE          MALAY",Abang Adik (2023)
+#EXTINF:-1 type="movie" CUID="53" tvg-name="Abang Adik (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/notp9F7IvfWyiDP8FKiZqGhdoOh.jpg" group-title="movie malay",Abang Adik (2023)
 https://cloud.hownetwork.xyz/zzz/67348b38573e1d3b559459f2cd79ca44/23/480.m3u8
-#EXTINF:-1 CUID="54" tvg-name="Sayu Yang Syukur (2023)" group-title="MOVIE          MALAY",Sayu Yang Syukur (2023)
+#EXTINF:-1 type="movie" CUID="54" tvg-name="Sayu Yang Syukur (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bNhtm5Tu0QwRTQlH1zBcdtJ1K53.jpg" group-title="movie malay",Sayu Yang Syukur (2023)
 https://cloud.hownetwork.xyz/zzz/91098bee49f4b2933c3540c06cf483a8/23/480.m3u8
-#EXTINF:-1 CUID="55" tvg-name="Hungry Ghost Diner (2023)" group-title="MOVIE          MALAY",Hungry Ghost Diner (2023)
+#EXTINF:-1 type="movie" CUID="55" tvg-name="Hungry Ghost Diner (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pULkprT38SuCup3f1y8ZiFdWJCd.jpg" group-title="movie malay",Hungry Ghost Diner (2023)
 https://cloud.hownetwork.xyz/zzz/67621e05011c523528e99acb4b4d3255/26/480.m3u8
-#EXTINF:-1 CUID="56" tvg-name="Syif Malam (2023)" group-title="MOVIE          MALAY",Syif Malam (2023)
+#EXTINF:-1 type="movie" CUID="56" tvg-name="Syif Malam (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2Ti9SPnh6I2jtWLZCzOvz8u5c3S.jpg" group-title="movie malay",Syif Malam (2023)
 https://cloud.hownetwork.xyz/zzz/cbb2b5ea924cfa7d4688386b7efd68ff/25/480.m3u8
-#EXTINF:-1 CUID="57" tvg-name="La Luna (2023)" group-title="MOVIE          MALAY",La Luna (2023)
+#EXTINF:-1 type="movie" CUID="57" tvg-name="La Luna (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8UvfeqDUvuRylh7De3Oje4dvpGA.jpg" group-title="movie malay",La Luna (2023)
 https://cloud.hownetwork.xyz/zzz/2b9ce507c6910da8cd0283fc53fafdfc/30/480.m3u8
-#EXTINF:-1 CUID="58" tvg-name="Tiger Stripes (2023)" group-title="MOVIE          MALAY",Tiger Stripes (2023)
+#EXTINF:-1 type="movie" CUID="58" tvg-name="Tiger Stripes (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bNO0NEZiP0leIS4rOHz03I4rDzy.jpg" group-title="movie malay",Tiger Stripes (2023)
 https://cloud.hownetwork.xyz/zzz/d939b2bbffc07216570ffa06888a6335/30/480.m3u8
-#EXTINF:-1 CUID="59" tvg-name="Syaaban (2023)" group-title="MOVIE          MALAY",Syaaban (2023)
+#EXTINF:-1 type="movie" CUID="59" tvg-name="Syaaban (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fJ8s0NTmPqxAObKYRMnvWj7r8tr.jpg" group-title="movie malay",Syaaban (2023)
 https://cloud.hownetwork.xyz/zzz/23cbc4906527c1f0b0afd8afdd882b3b/30/480.m3u8
-#EXTINF:-1 CUID="60" tvg-name="War on Terror: KL Anarchy (2023)" group-title="MOVIE          MALAY",War on Terror: KL Anarchy (2023)
+#EXTINF:-1 type="movie" CUID="60" tvg-name="War on Terror: KL Anarchy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2JDmyTZDBJy18q6VHPpDhOMcaxz.jpg" group-title="movie malay",War on Terror: KL Anarchy (2023)
 https://cloud.hownetwork.xyz/zzz/fae51b316d0a3a708e3df814e15ce35c/30/480.m3u8
-#EXTINF:-1 CUID="61" tvg-name="Immigrants (2023)" group-title="MOVIE          MALAY",Immigrants (2023)
+#EXTINF:-1 type="movie" CUID="61" tvg-name="Immigrants (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hyNsMgiFuzgo96JA4DtvnQHP5vz.jpg" group-title="movie malay",Immigrants (2023)
 https://cloud.hownetwork.xyz/zzz/640f4c2dfd2e0923e13acb6ad6214dcc/29/480.m3u8
-#EXTINF:-1 CUID="62" tvg-name="Impak Maksima Underground (2023)" group-title="MOVIE          MALAY",Impak Maksima Underground (2023)
+#EXTINF:-1 type="movie" CUID="62" tvg-name="Impak Maksima Underground (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tVNiy0GE4QgNlTh5XS6owEwnYEK.jpg" group-title="movie malay",Impak Maksima Underground (2023)
 https://cloud.hownetwork.xyz/zzz/7ad6dc74a92c2d03b0c827d207e0053c/29/480.m3u8
-#EXTINF:-1 CUID="63" tvg-name="Malbatt: Misi Bakara (2023)" group-title="MOVIE          MALAY",Malbatt: Misi Bakara (2023)
+#EXTINF:-1 type="movie" CUID="63" tvg-name="Malbatt: Misi Bakara (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8WJAr188uDyQfbt9sxX09z4pMrf.jpg" group-title="movie malay",Malbatt: Misi Bakara (2023)
 https://cloud.hownetwork.xyz/zzz/56ad6601099e2e70d4aad9c1a3404ba7/29/480.m3u8
-#EXTINF:-1 CUID="64" tvg-name="Walid (2023)" group-title="MOVIE          MALAY",Walid (2023)
+#EXTINF:-1 type="movie" CUID="64" tvg-name="Walid (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i52ZSFfs0PBpy75TLy8KbBLfWgp.jpg" group-title="movie malay",Walid (2023)
 https://cloud.hownetwork.xyz/zzz/5f303c77fa24cd79f466f92c41ab05e3/29/480.m3u8
-#EXTINF:-1 CUID="65" tvg-name="Sumpahan Jerunei (2023)" group-title="MOVIE          MALAY",Sumpahan Jerunei (2023)
+#EXTINF:-1 type="movie" CUID="65" tvg-name="Sumpahan Jerunei (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/AglMVvKL5hZaEzD1iVl3mdH9qcp.jpg" group-title="movie malay",Sumpahan Jerunei (2023)
 https://cloud.hownetwork.xyz/zzz/56fd08596d9f186674721f195d7e584d/22/480.m3u8
-#EXTINF:-1 CUID="66" tvg-name="Fanna (2023)" group-title="MOVIE          MALAY",Fanna (2023)
+#EXTINF:-1 type="movie" CUID="66" tvg-name="Fanna (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/m2FMsVQiyqL1dLSwyJbvkBJ6g8U.jpg" group-title="movie malay",Fanna (2023)
 https://cloud.hownetwork.xyz/zzz/5e4d196afb0ca0d420add3cd96f5bf42/22/480.m3u8
-#EXTINF:-1 CUID="67" tvg-name="Ma, I Love You (2023)" group-title="MOVIE          MALAY",Ma, I Love You (2023)
+#EXTINF:-1 type="movie" CUID="67" tvg-name="Ma, I Love You (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gQDlCAdlY0PAO3jy08qLdnatlRB.jpg" group-title="movie malay",Ma, I Love You (2023)
 https://cloud.hownetwork.xyz/zzz/3609e2fdd9764d8aa8a80e100e97c74a/22/480.m3u8
-#EXTINF:-1 CUID="68" tvg-name="Memburu (2023)" group-title="MOVIE          MALAY",Memburu (2023)
+#EXTINF:-1 type="movie" CUID="68" tvg-name="Memburu (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5dPhiw9IntjDrT3y7dKfYTPucyr.jpg" group-title="movie malay",Memburu (2023)
 https://cloud.hownetwork.xyz/zzz/7348b399ad638190cfce46125623c3c4/22/480.m3u8
-#EXTINF:-1 CUID="69" tvg-name="Budak Flat (2023)" group-title="MOVIE          MALAY",Budak Flat (2023)
+#EXTINF:-1 type="movie" CUID="69" tvg-name="Budak Flat (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ppz2Jmgmt1sMDVw64zRzQVXri63.jpg" group-title="movie malay",Budak Flat (2023)
 https://cloud.hownetwork.xyz/zzz/d0ada946fa27e9bff2bd6b0fa65b5c94/22/480.m3u8
-#EXTINF:-1 CUID="70" tvg-name="Mat Tudung Begin (2023)" group-title="MOVIE          MALAY",Mat Tudung Begin (2023)
+#EXTINF:-1 type="movie" CUID="70" tvg-name="Mat Tudung Begin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eyVRYJXNKBGzZl6nFujLPG2D92x.jpg" group-title="movie malay",Mat Tudung Begin (2023)
 https://cloud.hownetwork.xyz/zzz/07381c03171eeacd8b5b088a8d22fbaa/20/480.m3u8
-#EXTINF:-1 CUID="71" tvg-name="Penanggal Mak Kiah (2023)" group-title="MOVIE          MALAY",Penanggal Mak Kiah (2023)
+#EXTINF:-1 type="movie" CUID="71" tvg-name="Penanggal Mak Kiah (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qlqv0hLOL9uC5yrhwDggA0e6hN1.jpg" group-title="movie malay",Penanggal Mak Kiah (2023)
 https://cloud.hownetwork.xyz/zzz/615cd88483463caa641ff5c08d39bb0f/20/480.m3u8
-#EXTINF:-1 CUID="72" tvg-name="Rahsia (2023)" group-title="MOVIE          MALAY",Rahsia (2023)
+#EXTINF:-1 type="movie" CUID="72" tvg-name="Rahsia (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fYJEsucVD83EYBaIXZ3UYrvRm5S.jpg" group-title="movie malay",Rahsia (2023)
 https://cloud.hownetwork.xyz/zzz/4743c96d1b9a71c6a03351822672dc04/25/480.m3u8
-#EXTINF:-1 CUID="73" tvg-name="VII XII (2023)" group-title="MOVIE          MALAY",VII XII (2023)
+#EXTINF:-1 type="movie" CUID="73" tvg-name="VII XII (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5VdFEbWz15noOFTOBzpXLPJ0y9k.jpg" group-title="movie malay",VII XII (2023)
 https://cloud.hownetwork.xyz/zzz/7c963fad898df9c3c2111a95134b1f4d/3/480.m3u8
-#EXTINF:-1 CUID="74" tvg-name="Imam (2023)" group-title="MOVIE          MALAY",Imam (2023)
+#EXTINF:-1 type="movie" CUID="74" tvg-name="Imam (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mbcK6ukeBPZzuzHEQ5DTdXAiCiN.jpg" group-title="movie malay",Imam (2023)
 https://cloud.hownetwork.xyz/zzz/15e4962c3161658587e053a6db458373/3/480.m3u8
-#EXTINF:-1 CUID="75" tvg-name="Jemputan Ke Neraka (2023)" group-title="MOVIE          MALAY",Jemputan Ke Neraka (2023)
+#EXTINF:-1 type="movie" CUID="75" tvg-name="Jemputan Ke Neraka (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/v7kTVbKCzkbFjU86foEAIdrqeyY.jpg" group-title="movie malay",Jemputan Ke Neraka (2023)
 https://cloud.hownetwork.xyz/zzz/e2782e8afb84a2ee6d40959febf0af29/25/480.m3u8
-#EXTINF:-1 CUID="76" tvg-name="Police Evolution: The Final ( Polis Evo 3) (2023)" group-title="MOVIE          MALAY",Police Evolution: The Final ( Polis Evo 3) (2023)
+#EXTINF:-1 type="movie" CUID="76" tvg-name="Police Evolution: The Final ( Polis Evo 3) (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8nWEmWgK6GLp7ifgVgtdfHtugdC.jpg" group-title="movie malay",Police Evolution: The Final ( Polis Evo 3) (2023)
 https://cloud.hownetwork.xyz/zzz/a56fec863f2b601d9562446f19f777d6/1/480.m3u8
-#EXTINF:-1 CUID="77" tvg-name="Gui (2023)" group-title="MOVIE          MALAY",Gui (2023)
+#EXTINF:-1 type="movie" CUID="77" tvg-name="Gui (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bFJzuE9XI6KgFO8D6oxZdEctufL.jpg" group-title="movie malay",Gui (2023)
 https://cloud.hownetwork.xyz/zzz/43794d4b384dc8af0da3755bd7d90fb7/1/480.m3u8
-#EXTINF:-1 CUID="78" tvg-name="Imaginur (2023)" group-title="MOVIE          MALAY",Imaginur (2023)
+#EXTINF:-1 type="movie" CUID="78" tvg-name="Imaginur (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ndlY789u0ysOZCRo5JvcKqX09JQ.jpg" group-title="movie malay",Imaginur (2023)
 https://cloud.hownetwork.xyz/zzz/0f7919313c884217daae2f42bfd73304/1/480.m3u8
-#EXTINF:-1 CUID="79" tvg-name="Headhunter (2023)" group-title="MOVIE          MALAY",Headhunter (2023)
+#EXTINF:-1 type="movie" CUID="79" tvg-name="Headhunter (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3ErZoOW5gPQCeoT6TK4oyn7gW4c.jpg" group-title="movie malay",Headhunter (2023)
 https://cloud.hownetwork.xyz/zzz/9458384746c15645c4d72f3791b05619/1/480.m3u8
-#EXTINF:-1 CUID="80" tvg-name="Escape (2023)" group-title="MOVIE          MALAY",Escape (2023)
+#EXTINF:-1 type="movie" CUID="80" tvg-name="Escape (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/75YBLsA38KAJfL4D4plgcmquAE1.jpg" group-title="movie malay",Escape (2023)
 https://cloud.hownetwork.xyz/zzz/5bd688df5dabff8f5cb3c984067e846a/1/480.m3u8
-#EXTINF:-1 CUID="81" tvg-name="Pulau (2023)" group-title="MOVIE          MALAY",Pulau (2023)
+#EXTINF:-1 type="movie" CUID="81" tvg-name="Pulau (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qv3GjKNh4noyCmp4ysTDcT8yDlW.jpg" group-title="movie malay",Pulau (2023)
 https://cloud.hownetwork.xyz/zzz/25ec4e50fc98680f567aab6ac917e391/1/480.m3u8
-#EXTINF:-1 CUID="82" tvg-name="Sumpahan Syaitan (2023)" group-title="MOVIE          MALAY",Sumpahan Syaitan (2023)
+#EXTINF:-1 type="movie" CUID="82" tvg-name="Sumpahan Syaitan (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/juVj6zLwyfzqWey24t61EQDt86w.jpg" group-title="movie malay",Sumpahan Syaitan (2023)
 https://cloud.hownetwork.xyz/zzz/f0a33e8acd4eb1889b669226857e4ff5/1/480.m3u8
-#EXTINF:-1 CUID="5" tvg-name="Dongeng Sang Kancil (2024)" group-title="MOVIE          ANIMATION",Dongeng Sang Kancil (2024)
+#EXTINF:-1 type="movie" CUID="5" tvg-name="Dongeng Sang Kancil (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/m1X8iZWhe5zhcOQQAHGkcN9IsTS.jpg" group-title="movie animation",Dongeng Sang Kancil (2024)
 https://cloud.hownetwork.xyz/zzz/d4a543ff57f0d80ba5a65299851af8b3/31/480.m3u8
-#EXTINF:-1 CUID="10" tvg-name="Agrinai (2024)" group-title="MOVIE          INDIAN",Agrinai (2024)
+#EXTINF:-1 type="movie" CUID="10" tvg-name="Agrinai (2024)" tvg-logo="https://image.tmdb.org/t/p/w780/7P1sCuOM294qvvTNZglg1UpY0c.jpg" group-title="movie indian",Agrinai (2024)
 https://cloud.hownetwork.xyz/zzz/2b78fc1a28cd688e551b6833f3b4665b/25/480.m3u8
+
 
 #EXTINF:-1 type="movie" CUID="8" tvg-name="Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)" tvg-logo="https://image.tmdb.org/t/p/w780/sUsVimPdA1l162FvdBIlmKBlWHx.jpg" group-title="MOVIE          ANIMATION",Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle (2025)
 https://cloud.hownetwork.xyz/zzz/Jh0kIStUBC0jKBI-bls_NScMOjtoFxhsOzAeLiIdIjAnVSQhMxASbCs_ESUtWSIhbxsoPTEVEmxwYUV5bnMXFR0gFnwmHU90dWcT/33/480.m3u8
