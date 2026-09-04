@@ -106130,7 +106130,7 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v6/default/cmaf-dash-wv/vode/03cb0b97-e461-5511-a8d3-9c7cecb5182d/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MUTIARA DALAM DEBUAN KABUS S01 EP24" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="SERIES          MALAYp",MUTIARA DALAM DEBUAN KABUS S01 EP24
+#EXTINF:-1 tvg-id="" tvg-name="MUTIARA DALAM DEBUAN KABUS S01 EP24" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="SERIES          MALAY",MUTIARA DALAM DEBUAN KABUS S01 EP24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=267124b29cb395a414acfb7e67606710:36e5bbefba2f6eb86af8dbc4da1effa6
@@ -114774,12 +114774,12 @@ https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_i
 https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166293769&quality=s240p&product_id=2961978&lang=Malay
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4024256496/4b637962e2eb490d8d0e76b8e8966553a7b5bcc4" group-title="● VIU Malay| Sesaat Lebih", Ep11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4024256496/4b637962e2eb490d8d0e76b8e8966553a7b5bcc4" group-title="SERIES          MALAY",SESAAT LEBIH S01 EP11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36
 https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166294377&quality=s240p&product_id=2982986&lang=Malay&flag_id=7&ut=0
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4024256496/4b637962e2eb490d8d0e76b8e8966553a7b5bcc4" group-title="● VIU Malay| Sesaat Lebih", Ep12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/4024256496/4b637962e2eb490d8d0e76b8e8966553a7b5bcc4" group-title="SERIES          MALAY",SESAAT LEBIH S01 EP12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Reno 4 Pro Build/oQ8Ekv; wv) AppleWebKit/537.36
 https://ptv2026.com/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166294355&quality=s240p&product_id=2983052&lang=Malay&flag_id=7&ut=0
 
